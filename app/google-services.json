@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "487518205680",
+    "firebase_url": "https://fitness-tracker-app-51eed.firebaseio.com",
+    "project_id": "fitness-tracker-app-51eed",
+    "storage_bucket": "fitness-tracker-app-51eed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487518205680:android:2fa4f5850451cba9e97435",
+        "android_client_info": {
+          "package_name": "com.anusha.fitnesstrackerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487518205680-gg718jiemac3bcb5lu0u9ttb47sdhcib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anusha.fitnesstrackerapp",
+            "certificate_hash": "ac973afa4a70ea3e058306ace83489cdc88e3321"
+          }
+        },
+        {
+          "client_id": "487518205680-vl30p5ob47066rg8bj369o3db0sjvnni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYAe9pjmrYM8u67JdOkXXO4VDjtYP0_lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487518205680-vl30p5ob47066rg8bj369o3db0sjvnni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
