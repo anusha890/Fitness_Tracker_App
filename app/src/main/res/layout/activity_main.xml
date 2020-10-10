@@ -7,28 +7,34 @@
     android:orientation="vertical"
     android:gravity="left"
     tools:context=".Activity.MainActivity">
+
     <TextView
-            android:id="@+id/tv_steps"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:gravity="center"
-        android:textSize="30dp" />
+        android:id="@+id/tv_steps"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        />
 
 
     <Button
         android:id="@+id/btn_start"
-        android:layout_width="221dp"
-        android:layout_height="71dp"
-        android:text="Start Pedometer" />
-
-
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Start Pedometer"
+        />
 
     <Button
         android:id="@+id/btn_stop"
-        android:layout_width="179dp"
-        android:layout_height="62dp"
-        android:text="Start Pedometer"
-        android:layout_gravity="right"/>
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Stop Pedometer"
+        />
+
+</LinearLayout>
+
+
+
+
 
 
 
@@ -77,4 +83,3 @@
 <!--        android:layout_marginLeft="190dp"-->
 <!--        android:layout_marginTop="-190dp"-->
 <!--        android:src="@drawable/heart"/>-->
-</LinearLayout>

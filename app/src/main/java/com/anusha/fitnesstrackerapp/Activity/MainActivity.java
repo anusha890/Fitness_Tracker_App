@@ -40,8 +40,6 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
         BtnStart = (Button) findViewById(R.id.btn_start);
         BtnStop = (Button) findViewById(R.id.btn_stop);
 
-
-
         BtnStart.setOnClickListener(new View.OnClickListener() {
 
             @Override
